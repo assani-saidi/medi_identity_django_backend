@@ -154,4 +154,5 @@ CORS_ALLOW_ALL_ORIGINS: True
 CORS_ORIGIN_ALLOW_ALL: True
 ALLOWED_HOSTS = ['*']
 
-# py manage.py runserver 192.168.43.42:8000
+# py manage.py runserver 192.168.43.42:8000"import django_heroku" 
+"django_heroku.settings(locals())" 
