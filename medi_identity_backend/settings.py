@@ -147,7 +147,8 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 CORS_ORIGIN_WHITELIST = [
     'http://localhost:3000',
     'http://192.168.43.100:3000',
-    "http://192.168.43.1"
+    "http://192.168.43.1",
+    "https://medi-admin.vercel.app"
 ]
 
 CORS_ALLOW_ALL_ORIGINS: True
